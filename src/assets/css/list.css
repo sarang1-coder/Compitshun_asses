@@ -1,0 +1,32 @@
+button {
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  opacity: 0.6;
+}
+.active-btn {
+  color: red;
+}
+.complete-btn {
+  color: green;
+}
+
+.task-table {
+  border: 1px solid #000; 
+  border-collapse: collapse; 
+  width: 100%;
+}
+
+
+.task-table th {
+  background-color: #f0f0f0; 
+  border: 1px solid #000;
+}
+
+
+.task-table td {
+  border: 1px solid #000; 
+  padding: 8px; 
+}
+

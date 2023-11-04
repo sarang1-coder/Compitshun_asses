@@ -20,7 +20,7 @@
 
 
 
- ● Add due dates to tasks.
- ● Implement task prioritisation (e.g., high, medium, low).
- ● Add the ability to filter tasks by completed and active.
- ● Implement sorting by due date or priority.
+ * Add due dates to tasks.
+ * Implement task prioritisation (e.g., high, medium, low).
+ * Add the ability to filter tasks by completed and active.
+ * Implement sorting by due date or priority.
